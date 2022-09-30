@@ -22,7 +22,6 @@ I am more into math, but I also like doing computer science!
 **Major requirement**
 - [x] LD courses
 - [x]  UD courses
-- [ ] List A
 - [ ] Computational Electives (CSE 110)
 
 ### Favorites/Hobbies
