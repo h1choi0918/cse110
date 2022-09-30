@@ -20,3 +20,8 @@ Video Games (Action/FPS is my favorite genre)
 This is my favorite Korean singer [10CM](https://www.youtube.com/watch?v=TUo_XGiPmvI).
 
 I also like to take photos on my phone; Sky photos are my favorite!
+Here are some sky photos I took:
+![Sky1](Pictures/Sky1.jpg)
+![Sky2](Pictures/Sky2.jpg)
+![Sky3](Pictures/Sky3.jpg)
+![Sky4](Pictures/Sky4.jpg)
