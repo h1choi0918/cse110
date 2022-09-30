@@ -40,3 +40,4 @@ Here are some sky photos I took:
 ![Sky2](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky2.jpg)
 ![Sky3](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky3.jpg)
 ![Sky4](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky4.jpg)
+![Sky5](Pictures/Sky1.jpg)
