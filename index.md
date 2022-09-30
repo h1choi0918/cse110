@@ -5,7 +5,7 @@
 **Name:** Raon Choi
 
 You can call me by
-1. Raon * *Lah-on* *
+1. Raon (*Lah-on*)
 2. Rae
 3. Hyun 
 
@@ -19,11 +19,11 @@ My major is Mathematics and Computer Science,
 and I am taking this course to fulfill my major requirement.
 I am more into math, but I also like doing computer science!
 ```
-Major requirement
-[x] LD courses
-[x]  UD courses
-[ ] List A
-[ ] Computational Electives (CSE 110)
+**Major requirement**
+- [x] LD courses
+- [x]  UD courses
+- [ ] List A
+- [ ] Computational Electives (CSE 110)
 
 ### Favorites/Hobbies
 
