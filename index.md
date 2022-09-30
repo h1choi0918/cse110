@@ -36,7 +36,7 @@ This is my favorite Korean singer [10CM](https://www.youtube.com/watch?v=TUo_XGi
 
 I also like to take photos on my phone; Sky photos are my favorite!
 Here are some sky photos I took:
-![Sky1](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky1.jpg)
-![Sky2](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky2.jpg)
-![Sky3](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky3.jpg)
-![Sky4](https://github.com/h1choi0918/cse110/blob/main/Pictures/Sky4.jpg)
+![Sky1](Pictures/Sky1.jpg)
+![Sky2](Pictures/Sky2.jpg)
+![Sky3](Pictures/Sky3.jpg)
+![Sky4](Pictures/Sky4.jpg)
