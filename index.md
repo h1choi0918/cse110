@@ -2,9 +2,12 @@
 
 ## About Me
 
-**Name:** Raon Choi \n
-**Pronouns:** He/Him \n
-**Ethnicity:** Korean American \n
+**Name:** Raon Choi
+
+**Pronouns:** He/Him
+
+**Ethnicity:** Korean American
+
 **Year:** Senior
 
 > I am very excited to learn about software engineering!
