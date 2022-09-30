@@ -2,14 +2,16 @@
 
 ## About Me
 
-**Name:** Raon Choi
-**Pronouns:** He/Him
-**Ethnicity:** Korean American
+**Name:** Raon Choi \n
+**Pronouns:** He/Him \n
+**Ethnicity:** Korean American \n
 **Year:** Senior
 
 > I am very excited to learn about software engineering!
 ```
-My major is Mathematics and Computer Science, and I am taking this course to fulfill my major requirement. I am more into math, but I also like doing computer science!
+My major is Mathematics and Computer Science,
+and I am taking this course to fulfill my major requirement.
+I am more into math, but I also like doing computer science!
 ```
 ### Favorites/Hobbies
 
